@@ -4,5 +4,5 @@ This Python library provides functionality to create and search a FAISS index us
 
 ## Installation
 
-To install the library, use pip:
+To install the library, use pip: pip install chatterpyv1==0.1.0
 
